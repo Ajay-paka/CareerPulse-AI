@@ -141,10 +141,8 @@ Output contains:
 ## Telegram Preview 
 
 <p align="center">
-  <img src="screenshots/readme_preview.png" alt="Project Preview" width="900"/>
+  <img src="screenshots/readme_preview.png" alt="Project Preview" width="500" height="700"/>
 </p>
-
-<h3 align="center">Second Brain AI Preview</h3>
 
 
 ---
