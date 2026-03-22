@@ -140,18 +140,12 @@ Output contains:
 
 ---
 
-## 📲 Telegram Output Screenshot
-
-![Telegram Output](screenshots/telegram-output.png)
-
-
 ## 🎥 Demo Video
 
-Add video link here:
 
-```md
-[Watch Demo Video](your-video-link-here)
-```
+[Watch Demo Video](https://drive.google.com/file/d/1i3ysCgDf3Be-pOvSLJMnGeKaFwiOVujG/view?usp=sharing)
+
+
 
 Recommended:
 
