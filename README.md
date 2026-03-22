@@ -137,6 +137,8 @@ Output contains:
 
 Add image here:
 
+---
+
 ```md
 ![CareerPulse AI Workflow](screenshots/workflow.png)
 ```
@@ -146,6 +148,8 @@ Add image here:
 ## 📲 Telegram Output Screenshot
 
 Add image here:
+
+---
 
 ```md
 ![Telegram Output](screenshots/telegram-output.png)
