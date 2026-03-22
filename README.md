@@ -138,6 +138,11 @@ Output contains:
 
 ![CareerPulse AI Workflow](screenshots/workflow.png)
 
+## Telegram Preview 
+
+![Project Preview](screenshoots/readme_preview.png)
+
+
 ---
 
 ## 🎥 Demo Video
