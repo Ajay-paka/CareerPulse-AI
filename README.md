@@ -140,7 +140,10 @@ Output contains:
 
 ## Telegram Preview 
 
-![Project Preview](screenshots/readme_preview.png)
+<p align="center">
+
+![Project Preview](screenshots/readme_preview.png)</align>
+</p>
 
 
 ---
