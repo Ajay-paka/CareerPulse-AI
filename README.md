@@ -138,7 +138,7 @@ Output contains:
 Add image here:
 
 ```md
-![Workflow Screenshot](Screenshots/Careerpulse workflow.png)
+![Workflow Screenshot](screenshots/workflow.png)
 ```
 
 ---
