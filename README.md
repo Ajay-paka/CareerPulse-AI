@@ -137,25 +137,20 @@ Output contains:
 
 Add image here:
 
----
 
 ```md
 ![CareerPulse AI Workflow](screenshots/workflow.png)
 ```
 
----
-
 ## 📲 Telegram Output Screenshot
 
 Add image here:
 
----
 
 ```md
 ![Telegram Output](screenshots/telegram-output.png)
 ```
 
----
 
 ## 🎥 Demo Video
 
